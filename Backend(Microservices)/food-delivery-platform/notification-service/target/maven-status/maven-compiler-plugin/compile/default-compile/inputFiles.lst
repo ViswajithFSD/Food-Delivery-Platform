@@ -1,0 +1,7 @@
+E:\01. JRTP\FoodDeliveryPlatform\backend\food-delivery-platform\notification-service\src\main\java\com\foodapp\notification\controller\NotificationController.java
+E:\01. JRTP\FoodDeliveryPlatform\backend\food-delivery-platform\notification-service\src\main\java\com\foodapp\notification\dto\request\EmailRequest.java
+E:\01. JRTP\FoodDeliveryPlatform\backend\food-delivery-platform\notification-service\src\main\java\com\foodapp\notification\entity\Notification.java
+E:\01. JRTP\FoodDeliveryPlatform\backend\food-delivery-platform\notification-service\src\main\java\com\foodapp\notification\NotificationServiceApplication.java
+E:\01. JRTP\FoodDeliveryPlatform\backend\food-delivery-platform\notification-service\src\main\java\com\foodapp\notification\repository\NotificationRepository.java
+E:\01. JRTP\FoodDeliveryPlatform\backend\food-delivery-platform\notification-service\src\main\java\com\foodapp\notification\service\impl\NotificationServiceImpl.java
+E:\01. JRTP\FoodDeliveryPlatform\backend\food-delivery-platform\notification-service\src\main\java\com\foodapp\notification\service\NotificationService.java
